@@ -20,5 +20,5 @@ tracks:
     release_tag: :{version}
     ros_distro: melodic
     vcs_type: git
-    vcs_uri: https://github.com/Rascof/dynamic-graph_v2.git
+    vcs_uri: https://github.com/stack-of-tasks/dynamic-graph.git
     version: :{ask}
