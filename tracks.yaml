@@ -22,5 +22,5 @@ tracks:
     release_tag: v:{version}
     ros_distro: melodic
     vcs_type: git
-    vcs_uri: https://github.com/Rascof/dynamic-graph_catkin-release.git
+    vcs_uri: https://github.com/Rascof/dynamic-graph_v3.git
     version: :{ask}
