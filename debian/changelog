@@ -1,0 +1,31 @@
+ros-melodic-dynamic-graph (4.1.4-1stretch) stretch; urgency=high
+
+  * remove submodules
+  * Contributors: rascof
+
+ -- Olivier Stasse <ostasse@laas.fr>  Sun, 24 May 2020 22:00:00 -0000
+
+ros-melodic-dynamic-graph (4.1.3-1stretch) stretch; urgency=high
+
+  * modify .gitmodules
+  * Remove jrl-cmakemodules
+  * Contributors: rascof
+
+ -- Olivier Stasse <ostasse@laas.fr>  Sun, 24 May 2020 22:00:00 -0000
+
+ros-melodic-dynamic-graph (4.1.2-1stretch) stretch; urgency=high
+
+  * Import jrl-cmakemodules
+  * Contributors: rascof
+
+ -- Olivier Stasse <ostasse@laas.fr>  Sun, 24 May 2020 22:00:00 -0000
+
+ros-melodic-dynamic-graph (4.1.1-1stretch) stretch; urgency=high
+
+  * Init repository
+  * Initial commit
+  * Contributors: Rascof, rascof
+
+ -- Olivier Stasse <ostasse@laas.fr>  Sun, 24 May 2020 22:00:00 -0000
+
+
