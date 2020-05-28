@@ -23,4 +23,4 @@ tracks:
     ros_distro: melodic
     vcs_type: git
     vcs_uri: https://github.com/Rascof/dynamic-graph.git
-    version: :{auto}
+    version: :{ask}
